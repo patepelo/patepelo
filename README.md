@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, hola, hallo. 👋
 
-<!--
-**patepelo/patepelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in **Mechanical Engineering**, I'm now building a career in **Data Science** as a **Python developer**.  
 
-Here are some ideas to get you started:
+I'm an Open-Source enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love maps and especially the **OpenStreetMap community**.
+
+Last summer, I completed a full-time **Data Science & AI bootcamp** at **Le Wagon**—an incredible experience that I highly recommend!  
+
+### 🌿 When I'm not coding...  
+
+You'll find me hiking 🥾, mountain biking 🚵‍♂, or sailing ⛵ out at sea 🌊. Nature is my reset button.
+
+Let’s collaborate. 🪴
+
+
