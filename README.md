@@ -12,6 +12,6 @@ Last summer, I completed a full-time **Data Science & AI bootcamp** at **Le Wago
 
 You'll find me hiking 🥾, mountain biking 🚵‍♂, or sailing ⛵ out at sea 🌊. Nature is my reset button.
 
-Let’s collaborate. 🪴
+Let’s collaborate 🪴
 
 
