@@ -3,7 +3,7 @@
 ## 📖 About Me
 With a background in **Mechanical Engineering**, I'm now building a career in **Data Science** as a **Python developer**.  
 
-I'm an Open-Source enthusiast.
+I'm an Open-Source enthusiast. Currently less active in GitHub and more in [Codeberg](https://codeberg.org/patepelo).
 
 I love maps and admire the **OpenStreetMap** project and community.
 
