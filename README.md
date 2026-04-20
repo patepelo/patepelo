@@ -1,5 +1,6 @@
 ## Hello, hola, hallo 👋
 
+I've been more [active in Codeberg](https://codeberg.org/patepelo?tab=activity) than Github lately.
 ## 📖 About Me
 With a background in **Mechanical Engineering**, I'm now building a career in **Data Science** as a **Python developer**.  
 
